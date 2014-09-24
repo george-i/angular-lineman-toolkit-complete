@@ -29,7 +29,7 @@ For apps which already have a backend, <a href="https://github.com/george-i/angu
 
 Components
 --------------
-Client side
+Frontend
 - <a href="http://linemanjs.com/" title="Lineman JS">Lineman JS</a> - a CLI tool. With it, most of required tasks in the development process are silently handled.<br />
 Lineman includes <b>Grunt</b>, <b>Jasmine</b> and also runs a local server for development purposes.
 - <a href="http://bower.io/">Bower</a> - for package management
@@ -40,13 +40,14 @@ Lineman includes <b>Grunt</b>, <b>Jasmine</b> and also runs a local server for d
 - <a href="http://fontawesome.io/">Font Awesome</a>
 
 
-Server side
+Backend
 - <a href="http://nodejs.org/">NodeJS</a> server
 - <a href="http://www.mongodb.org/">MongoDB</a>
 - <a href="http://expressjs.com/">ExpressJS</a>
 
 Mixins
 - <a href="http://socket.io/">socket.io</a>
+
 Tools
 - <a href="http://sass-lang.com/">SASS</a> - is compiled to CSS
 - <a href="http://coffeescript.org/">Coffeescript</a> - is compiled to JS
