@@ -19,7 +19,7 @@ module.exports = function(lineman) {
                 "vendor/bower/angular-touch/angular-touch.js",
                 "vendor/bower/angular-ui-router/release/angular-ui-router.js",
                 "vendor/bower/underscore/underscore.js",
-                "vendor/bower/bootstrap-sass/assets/javascripts/bootstrap.js",
+                "vendor/bower/bootstrap-sass/dist/js/bootstrap.js",
                 "node_modules/socket.io/node_modules/socket.io-client/socket.io.js"
             ],
             app: [
