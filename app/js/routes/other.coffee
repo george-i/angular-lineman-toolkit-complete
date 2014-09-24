@@ -25,7 +25,7 @@ angular.module('app').config ($stateProvider) ->
     templateUrl: 'features.html'
     controller: 'FeaturesController'
     data: {
-      pageTitle: 'Features testng'
+      pageTitle: 'Features testing'
     }
 
   $stateProvider.state 'news',
