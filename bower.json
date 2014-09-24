@@ -10,7 +10,7 @@
     "angular-sanitize": "~1.2.15",
     "angular-ui-router": "~0.2.8",
     "font-awesome": "~4.0.3",
-    "bootstrap-sass": "https://github.com/twbs/bootstrap-sass.git#~3.2.0+2"
+    "bootstrap-sass": "~3.0.2"
   },
   "homepage": "https://github.com/george-i/angular-lineman-startapp",
   "authors": [
