@@ -3,25 +3,30 @@ Lineman Angular Toolkit (complete)
 Description
 --------------
 This toolkit creates the environment for the development of an AngularJS based project.
-<br/>
+
+
 In addition, it compiles the code to run a smooth and fast application.
-<br/>
+
+
 Features
 --------------
 - all JavaScript
 - real time integration
 - API service designed
 - compile and test tool
-<br/>
+
+
 
 Recommended for:
 --------------
 - real time apps
 - starting projects from scratch
 - apps which require full stack structure (frontend and backend)
-<br/>
+
+
 For apps which already have a backend, <a href="https://github.com/george-i/angular-lineman-toolkit-light">Lineman Angular Toolkit (light)</a> is more suitable.
-<br/>
+
+
 Components
 --------------
 Client side
@@ -33,10 +38,13 @@ Lineman includes <b>Grunt</b>, <b>Jasmine</b> and also runs a local server for d
 - <a href="http://jquery.com/">jQuery</a>
 - <a href="http://getbootstrap.com/">Twitter Bootstrap</a>
 - <a href="http://fontawesome.io/">Font Awesome</a>
+
+
 Server side
 - <a href="http://nodejs.org/">NodeJS</a> server
 - <a href="http://www.mongodb.org/">MongoDB</a>
-- <a href="http://expressjs.com/">
+- <a href="http://expressjs.com/">ExpressJS</a>
+
 Mixins
 - <a href="http://socket.io/">socket.io</a>
 Tools
