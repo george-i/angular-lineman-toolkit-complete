@@ -62,3 +62,6 @@ bower install
 mongod --dbpath C:\mongodb\data\db\ /* start MongoDB */
 lineman clean run
 ```
+
+Finally, open <a href="http://localhost:8000/>http://localhost:8000/</a> in your browser.
+To test the features, navigate then to <a href="http://localhost:8000/#/features">http://localhost:8000/#/features</a>
