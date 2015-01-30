@@ -7,6 +7,9 @@ This toolkit creates the environment for the development of an AngularJS based p
 
 In addition, it compiles the code to run a smooth and fast application.
 
+This is a screen recording of the result, right after finishing the setup:
+https://www.youtube.com/watch?v=aUzyFjiAVSM
+
 
 Features
 --------------
